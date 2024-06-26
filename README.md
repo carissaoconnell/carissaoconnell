@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carissaoconnell
 - 👀 I’m interested in ... making program functions easier to work with for the user and developing programs that help people learn languages.
-- 🌱 I’m currently learning ... java, c++, javascript, html, css, sql and I am beginning to dabble into Python and Swift.
-- 💞️ I’m looking to collaborate on ... programs related to healthcare (yes I am familiar with HIPAA law) and learning languages. 
+- 🌱 Recently I have been dabbling in ... Python and Swift.
+- 💞️ I’m looking to collaborate on ... programs related to healthcare (yes I am familiar with HIPAA law), sewing, finances, [developing algorithms for antique board games](https://sites.google.com/site/boardandpieces/list-of-games), and learning languages. 
 - 📫 How to reach me ...
 
 <!---
